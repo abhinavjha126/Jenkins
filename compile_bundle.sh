@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eo pipefail
 
-VER_TORCH=2.2.0.dev20231006+cpu
+VER_TORCH=2.2.0.dev20231010+cpu
 VER_TORCHVISION=0.17.0.dev20231006+cpu
 VER_TORCHAUDIO=2.2.0.dev20231006+cpu
 VER_LLVM=llvmorg-16.0.6
